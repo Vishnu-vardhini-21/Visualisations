@@ -1,4 +1,3 @@
-# Visualisations
-Some Power BI visualisations for sample data
-The data are taken from Internet, I hold no copyrights.
-The viz are my own creations, don't copy them.
+# Employee dashboard Visualisation using PowerBI
+This project is a comprehensive dashboard built using employee data from Kaggle. It provides key insights through various KPIs, including attrition rate, absenteeism, average performance scores, employee satisfaction, average salary, gender diversity, and citizenship distribution. The dashboard helps visualize workforce trends and supports data-driven HR decisions.
+Thisvisualisation helped to have an in depth analysis to DAX codes and dynamic dashboards.
